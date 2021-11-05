@@ -377,7 +377,7 @@ function closeLibrary() {
 }
 
 function getLocalStorage() {
-  savedPalettes = checkLocalStorage();
+  savedPalettes = [...checkLocalStorage()];
 
   if (savedPalettes) {
     savedPalettes.forEach((palette) => {

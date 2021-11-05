@@ -11,5 +11,7 @@
 - HTML
 - CSS
 - Javascript
+- localstorage
+- github-pages
 
 ---

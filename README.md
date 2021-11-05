@@ -13,5 +13,3 @@
 - Javascript
 - localstorage
 - github-pages
-
----
